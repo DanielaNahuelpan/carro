@@ -72,7 +72,6 @@ class Carrito {
 
 }
 
-
     //ENTRADA 
     let atraparDatos = ()=>{
         let objCarrito = new Carrito([],0); // creamos un objeto carrito, con arreglo de productos vacio y valor final a pagar 0
